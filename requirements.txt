@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+torchvision
+accelerate
+parler_tts
+git+https://github.com/huggingface/parler-tts.git
